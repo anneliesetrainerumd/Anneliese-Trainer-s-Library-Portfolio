@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-
+Anneliese Trainer is currently the Lead Children's Librarian at Calvert Library Twin Beaches Branch. Over her five year tenure she has spearheaded multiple projects. This collection is a sampling of photos, videos, and sound clips Anneliese produced while working for Calvert Library. The collection heavily features book recommendation photos and videos, book displays, and podcast episodes. 
 
 ## About the Collection
 
