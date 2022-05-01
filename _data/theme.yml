@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FiomxJxJ_icons-png-free-and-library-stacks-transparent-png%2F&psig=AOvVaw2smoRqezNRFjl1miI5Iz9v&ust=1651524344486000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCcs4qWv_cCFQAAAAAdAAAAABAE
+featured-image:id0004
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of background image, center, top, bottom
